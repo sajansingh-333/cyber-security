@@ -1,0 +1,23 @@
+Vulnerability
+A flaw or weakness in system security procedures, design, implementation, or internal controls that might result in a security breach is termed as Vulnerability.
+
+E.g. Software bugs, Inefficient controls, Hardware flaws, Human errors
+
+Exploit
+An exploit is a piece of software or a sequence of commands that takes advantage of a vulnerability to cause unintended or unanticipated behavior to occur on a computer software or hardware.
+
+E.g. Computer virus, malware or flooding of requests to the server by a bot.
+
+Threat
+Threat is any potential danger that is associated with the exploitation of a vulnerability. A threat is an undesirable event that can happen to assets.
+
+E.g. An organization running on windows operating system was targeted and blocked until a ransom of $300 was credited to hackers account to unlock the data. Threat here is the leak of data.
+
+Threat agent
+Threat agent is a term used to represent an individual or group that can cause a threat.
+
+It is important to identify who would want to exploit the assets of a company (capabilities), and how they might utilize those (intentions) against the company.
+
+Threat agent = Capabilities + Intentions + Past activities
+
+E.g. The threat agent in the above example is a hacker.
