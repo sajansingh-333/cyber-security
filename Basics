@@ -21,3 +21,24 @@ It is important to identify who would want to exploit the assets of a company (c
 Threat agent = Capabilities + Intentions + Past activities
 
 E.g. The threat agent in the above example is a hacker.
+Risk
+Risk is a function of likelihood of a given threat agent exploiting a particular vulnerability, and the resulting impact of the adverse event on the organization.
+
+Risk = Likelihood * Impact
+
+Likelihood is the probability of occurrence of the threat.
+
+Impact is the magnitude of harm that could be caused by the threat. Impact can be a business impact or a technical impact.
+
+Need for Risk to be calculated
+Risk needs to be calculated to estimate the impact that will occur to the organization (monetary/technical/reputation) if a vulnerability is exploited by a threat agent. Moreover, some industry standards and government regulations mandate calculation of risk. By calculating risk for every application, organizations can prioritize which application needs more and/or immediate attention for security enhancements. 
+
+Attack vector aka paths
+Attackers can potentially find many different paths to cause a harm to business through their application. Each of these paths represents a risk that may, or may not be serious enough to warrant attention.
+
+Paths could be easy or hard to exploit. Sometimes, these paths are trivial to find and exploit and sometimes they are extremely difficult. Similarly, the harm that is caused may lead to any or no consequence.
+
+Controls
+Control is a mitigation to protect the asset from risks.
+
+E.g. The organizations would not have faced WannaCry ransomware attack if the latest Microsoft patches were updated to systems running Windows O.S released the previous week.
